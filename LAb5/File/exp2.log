@@ -1,0 +1,21 @@
+Circuit: * F:\Lab5\File\exp2.asc
+
+Direct Newton iteration for .op point succeeded.
+
+Date: Sun Nov 26 05:44:09 2023
+Total elapsed time: 0.109 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 10054
+traniter = 10038
+tranpoints = 5020
+accept = 5019
+rejected = 1
+matrix size = 13
+fillins = 2
+solver = Normal
+Matrix Compiler1: 598 bytes object code size  0.2/0.1/[0.1]
+Matrix Compiler2: 1.14 KB object code size  0.1/0.1/[0.1]
+

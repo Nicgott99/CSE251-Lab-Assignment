@@ -1,0 +1,32 @@
+# Operating System Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Temporary Files
+*.tmp
+*.temp
+~*
+
+# Log Files (keeping lab-specific logs)
+*.log.backup
+*.log.old
+
+# Editor Files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Backup Files
+*.bak
+*.backup
+
+# System Files
+desktop.ini
+$RECYCLE.BIN/
