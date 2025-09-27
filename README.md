@@ -28,6 +28,12 @@ Contains experimental data and analysis for Lab 6 assignments:
 - **lab6 task3/**: Task 3 experiments with multiple draft iterations
 - Visual documentation and graphs for analysis
 
+### Project
+Contains the final project implementation for CSE251:
+- **Project_22101371_Md Hasib Ullah Khan Alvie_251.asc**: Main project file with circuit design and analysis
+- Student ID: 22101371
+- Comprehensive project demonstrating electronic devices and circuits concepts
+
 ## File Types
 - `.raw` - Raw measurement data from laboratory instruments
 - `.log` - Experiment log files with timestamps and measurements
